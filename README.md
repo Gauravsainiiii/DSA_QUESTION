@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0002-add-two-numbers) |
 | [0092-reverse-linked-list-ii](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0092-reverse-linked-list-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0237-delete-node-in-a-linked-list) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
@@ -102,4 +104,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1260-shift-2d-grid) |
+## Tree
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Binary Tree
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
