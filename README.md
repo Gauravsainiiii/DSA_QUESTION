@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0328-odd-even-linked-list) |
@@ -65,15 +66,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0148-sort-list) |
 | [0932-beautiful-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0932-beautiful-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0344-reverse-string) |
 ## String
@@ -118,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
