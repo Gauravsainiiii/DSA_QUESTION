@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0268-missing-number) |
 | [0932-beautiful-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0932-beautiful-array) |
@@ -137,4 +138,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0023-merge-k-sorted-lists) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
