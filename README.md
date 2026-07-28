@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0024-swap-nodes-in-pairs) |
 | [0092-reverse-linked-list-ii](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0138-copy-list-with-random-pointer) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0206-reverse-linked-list) |
 ## Enumeration
 |  |
