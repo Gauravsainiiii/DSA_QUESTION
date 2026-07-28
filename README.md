@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0014-longest-common-prefix) |
 | [0189-rotate-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0268-missing-number) |
 | [0525-contiguous-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0525-contiguous-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0344-reverse-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Number Theory
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0561-array-partition) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
