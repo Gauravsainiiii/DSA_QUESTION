@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0268-missing-number) |
 | [0525-contiguous-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0525-contiguous-array) |
+| [0895-maximum-frequency-stack](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0895-maximum-frequency-stack) |
 | [1172-dinner-plate-stacks](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1172-dinner-plate-stacks) |
 ## Prefix Sum
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0895-maximum-frequency-stack](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0895-maximum-frequency-stack) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1172-dinner-plate-stacks](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1172-dinner-plate-stacks) |
 ## Greedy
@@ -173,5 +175,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0895-maximum-frequency-stack](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0895-maximum-frequency-stack) |
 | [1172-dinner-plate-stacks](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1172-dinner-plate-stacks) |
+## Ordered Set
+|  |
+| ------- |
+| [0895-maximum-frequency-stack](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0895-maximum-frequency-stack) |
 <!---LeetCode Topics End-->
