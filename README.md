@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0014-longest-common-prefix) |
+| [0046-permutations](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0268-missing-number) |
@@ -187,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0895-maximum-frequency-stack](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0895-maximum-frequency-stack) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
