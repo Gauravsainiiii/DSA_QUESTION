@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0268-missing-number) |
+| [0486-predict-the-winner](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0486-predict-the-winner) |
 | [0932-beautiful-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0932-beautiful-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3536-maximum-product-of-two-digits) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0206-reverse-linked-list) |
+| [0486-predict-the-winner](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0486-predict-the-winner) |
 ## Enumeration
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0268-missing-number) |
+| [0486-predict-the-winner](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0486-predict-the-winner) |
 | [0525-contiguous-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0525-contiguous-array) |
 | [0561-array-partition](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0561-array-partition) |
 | [0896-monotonic-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0896-monotonic-array) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0070-climbing-stairs) |
+| [0486-predict-the-winner](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0486-predict-the-winner) |
 ## Memoization
 |  |
 | ------- |
@@ -192,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0046-permutations) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
