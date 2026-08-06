@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0877-stone-game) |
 | [0932-beautiful-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0932-beautiful-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1291-sequential-digits) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Array
 |  |
 | ------- |
