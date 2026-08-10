@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0079-word-search) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0036-valid-sudoku) |
 | [0138-copy-list-with-random-pointer](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0268-missing-number) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0079-word-search) |
 | [1260-shift-2d-grid](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1260-shift-2d-grid) |
