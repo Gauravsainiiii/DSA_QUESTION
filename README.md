@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0079-word-search) |
 | [0189-rotate-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0268-missing-number) |
+| [0406-queue-reconstruction-by-height](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0406-queue-reconstruction-by-height) |
 | [0486-predict-the-winner](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0486-predict-the-winner) |
 | [0525-contiguous-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0525-contiguous-array) |
 | [0561-array-partition](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0561-array-partition) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0268-missing-number) |
+| [0406-queue-reconstruction-by-height](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0406-queue-reconstruction-by-height) |
 | [0561-array-partition](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0561-array-partition) |
 | [3536-maximum-product-of-two-digits](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3731-find-missing-elements) |
@@ -224,4 +226,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0877-stone-game) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0406-queue-reconstruction-by-height) |
+## Segment Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0406-queue-reconstruction-by-height) |
 <!---LeetCode Topics End-->
