@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0048-rotate-image) |
+| [0063-unique-paths-ii](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0079-word-search) |
 | [0189-rotate-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0268-missing-number) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0048-rotate-image) |
+| [0063-unique-paths-ii](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0079-word-search) |
 | [1260-shift-2d-grid](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1260-shift-2d-grid) |
 ## Simulation
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0877-stone-game) |
