@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0079-word-search) |
 | [0189-rotate-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0189-rotate-array) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0148-sort-list) |
 | [0932-beautiful-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0932-beautiful-array) |
 ## Two Pointers
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0486-predict-the-winner) |
