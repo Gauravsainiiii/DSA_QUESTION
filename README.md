@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0053-maximum-subarray) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0041-first-missing-positive) |
 | [0138-copy-list-with-random-pointer](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0268-missing-number) |
