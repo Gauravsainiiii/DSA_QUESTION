@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0014-longest-common-prefix) |
 | [0065-valid-number](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0065-valid-number) |
 | [0079-word-search](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0079-word-search) |
+| [0087-scramble-string](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0087-scramble-string) |
 | [0344-reverse-string](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0344-reverse-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1927-sum-game) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0070-climbing-stairs) |
+| [0087-scramble-string](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0087-scramble-string) |
 | [0486-predict-the-winner](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0877-stone-game) |
 ## Memoization
