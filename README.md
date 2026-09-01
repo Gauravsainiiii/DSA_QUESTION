@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [0877-stone-game](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0877-stone-game) |
 | [0932-beautiful-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0932-beautiful-array) |
+| [1510-stone-game-iv](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1510-stone-game-iv) |
 | [1927-sum-game](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0087-scramble-string) |
 | [0486-predict-the-winner](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1510-stone-game-iv) |
 ## Memoization
 |  |
 | ------- |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1510-stone-game-iv) |
 | [1927-sum-game](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1927-sum-game) |
 ## Binary Indexed Tree
 |  |
@@ -298,4 +301,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0200-number-of-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
