@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0065-valid-number) |
 | [0079-word-search](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0087-scramble-string) |
+| [0115-distinct-subsequences](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0127-word-ladder) |
 | [0344-reverse-string](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0344-reverse-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0070-climbing-stairs) |
 | [0087-scramble-string](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0087-scramble-string) |
 | [0096-unique-binary-search-trees](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0096-unique-binary-search-trees) |
+| [0115-distinct-subsequences](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1510-stone-game-iv) |
