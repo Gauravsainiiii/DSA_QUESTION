@@ -346,4 +346,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0096-unique-binary-search-trees) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
