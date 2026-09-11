@@ -54,11 +54,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0486-predict-the-winner) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3483-unique-3-digit-even-numbers) |
 ## Array
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3731-find-missing-elements) |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0525-contiguous-array) |
 | [0895-maximum-frequency-stack](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0895-maximum-frequency-stack) |
 | [1172-dinner-plate-stacks](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1172-dinner-plate-stacks) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3731-find-missing-elements) |
