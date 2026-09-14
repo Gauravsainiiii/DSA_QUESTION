@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-beautiful-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0932-beautiful-array) |
 | [0946-validate-stack-sequences](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0946-validate-stack-sequences) |
 | [1260-shift-2d-grid](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1260-shift-2d-grid) |
+| [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1480-running-sum-of-1d-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1480-running-sum-of-1d-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0940-distinct-subsequences-ii) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1510-stone-game-iv](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1510-stone-game-iv) |
 ## Memoization
 |  |
