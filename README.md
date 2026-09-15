@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0946-validate-stack-sequences) |
 | [1260-shift-2d-grid](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1260-shift-2d-grid) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1480-running-sum-of-1d-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0268-missing-number) |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3488-closest-equal-element-queries](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3488-closest-equal-element-queries) |
 ## Bit Manipulation
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0268-missing-number) |
 | [0406-queue-reconstruction-by-height](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0406-queue-reconstruction-by-height) |
 | [0561-array-partition](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0561-array-partition) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3731-find-missing-elements) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0200-number-of-islands) |
 | [1260-shift-2d-grid](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1260-shift-2d-grid) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
@@ -256,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0023-merge-k-sorted-lists) |
 | [1172-dinner-plate-stacks](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1172-dinner-plate-stacks) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
