@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0096-unique-binary-search-trees) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -247,12 +248,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0079-word-search) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0200-number-of-islands](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0200-number-of-islands) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0096-unique-binary-search-trees) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Merge Sort
 |  |
