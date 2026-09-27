@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1345-jump-game-iv) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1348-tweet-counts-per-frequency](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1348-tweet-counts-per-frequency) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3488-closest-equal-element-queries) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1348-tweet-counts-per-frequency](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1348-tweet-counts-per-frequency) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3488-closest-equal-element-queries](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3488-closest-equal-element-queries) |
 ## Bit Manipulation
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1338-reduce-array-size-to-the-half) |
 | [1340-jump-game-v](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1340-jump-game-v) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1348-tweet-counts-per-frequency](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1348-tweet-counts-per-frequency) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3731-find-missing-elements) |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1348-tweet-counts-per-frequency](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1348-tweet-counts-per-frequency) |
 | [1927-sum-game](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Number Theory
@@ -325,10 +329,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0895-maximum-frequency-stack](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0895-maximum-frequency-stack) |
 | [1172-dinner-plate-stacks](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1172-dinner-plate-stacks) |
+| [1348-tweet-counts-per-frequency](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1348-tweet-counts-per-frequency) |
 ## Ordered Set
 |  |
 | ------- |
 | [0895-maximum-frequency-stack](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0895-maximum-frequency-stack) |
+| [1348-tweet-counts-per-frequency](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1348-tweet-counts-per-frequency) |
 ## Backtracking
 |  |
 | ------- |
