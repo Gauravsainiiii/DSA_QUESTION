@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1349-maximum-students-taking-exam](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1349-maximum-students-taking-exam) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1352-product-of-the-last-k-numbers) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1480-running-sum-of-1d-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1480-running-sum-of-1d-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1340-jump-game-v) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1348-tweet-counts-per-frequency](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1348-tweet-counts-per-frequency) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3731-find-missing-elements) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0561-array-partition) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1338-reduce-array-size-to-the-half) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1927-sum-game](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1927-sum-game) |
 ## Monotonic Stack
 |  |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1172-dinner-plate-stacks](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1172-dinner-plate-stacks) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1338-reduce-array-size-to-the-half) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 ## Dynamic Programming
 |  |
 | ------- |
