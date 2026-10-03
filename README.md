@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1352-product-of-the-last-k-numbers) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1480-running-sum-of-1d-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1480-running-sum-of-1d-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1338-reduce-array-size-to-the-half) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1354-construct-target-array-with-multiple-sums) |
 ## Dynamic Programming
 |  |
 | ------- |
