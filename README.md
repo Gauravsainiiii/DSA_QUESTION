@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1352-product-of-the-last-k-numbers) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1354-construct-target-array-with-multiple-sums) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1480-running-sum-of-1d-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1480-running-sum-of-1d-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1349-maximum-students-taking-exam](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1349-maximum-students-taking-exam) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Sorting
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1348-tweet-counts-per-frequency](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1348-tweet-counts-per-frequency) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3731-find-missing-elements) |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0561-array-partition) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Trie
 |  |
 | ------- |
