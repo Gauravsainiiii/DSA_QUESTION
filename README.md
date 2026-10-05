@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1348-tweet-counts-per-frequency](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1348-tweet-counts-per-frequency) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3488-closest-equal-element-queries) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1348-tweet-counts-per-frequency](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1348-tweet-counts-per-frequency) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Number Theory
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Counting Sort
 |  |
