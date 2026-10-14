@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1361-validate-binary-tree-nodes](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1361-validate-binary-tree-nodes) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1361-validate-binary-tree-nodes](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1361-validate-binary-tree-nodes) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1361-validate-binary-tree-nodes](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1361-validate-binary-tree-nodes) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Merge Sort
 |  |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1363-largest-multiple-of-three](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1363-largest-multiple-of-three) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1510-stone-game-iv](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1510-stone-game-iv) |
 ## Memoization
 |  |
@@ -442,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0096-unique-binary-search-trees) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Database
 |  |
 | ------- |
@@ -524,4 +529,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 <!---LeetCode Topics End-->
