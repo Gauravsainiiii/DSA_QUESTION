@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1376-time-needed-to-inform-all-employees) |
+| [1377-frog-position-after-t-seconds](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1377-frog-position-after-t-seconds) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1376-time-needed-to-inform-all-employees) |
+| [1377-frog-position-after-t-seconds](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1377-frog-position-after-t-seconds) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1345-jump-game-iv) |
 | [1361-validate-binary-tree-nodes](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1361-validate-binary-tree-nodes) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1376-time-needed-to-inform-all-employees) |
+| [1377-frog-position-after-t-seconds](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1377-frog-position-after-t-seconds) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Minimax
 |  |
@@ -462,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1361-validate-binary-tree-nodes](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1361-validate-binary-tree-nodes) |
+| [1377-frog-position-after-t-seconds](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1377-frog-position-after-t-seconds) |
 ## Shortest Path
 |  |
 | ------- |
