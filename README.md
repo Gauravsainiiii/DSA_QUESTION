@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1363-largest-multiple-of-three](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1363-largest-multiple-of-three) |
 | [1375-number-of-times-binary-string-is-prefix-aligned](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1375-number-of-times-binary-string-is-prefix-aligned) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1383-maximum-performance-of-a-team](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1383-maximum-performance-of-a-team) |
 | [1480-running-sum-of-1d-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1480-running-sum-of-1d-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1363-largest-multiple-of-three](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1363-largest-multiple-of-three) |
+| [1383-maximum-performance-of-a-team](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1383-maximum-performance-of-a-team) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3731-find-missing-elements) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1363-largest-multiple-of-three](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1363-largest-multiple-of-three) |
 | [1382-balance-a-binary-search-tree](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1382-balance-a-binary-search-tree) |
+| [1383-maximum-performance-of-a-team](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1383-maximum-performance-of-a-team) |
 | [1927-sum-game](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1927-sum-game) |
 ## Monotonic Stack
 |  |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1338-reduce-array-size-to-the-half) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1354-construct-target-array-with-multiple-sums) |
+| [1383-maximum-performance-of-a-team](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1383-maximum-performance-of-a-team) |
 ## Dynamic Programming
 |  |
 | ------- |
