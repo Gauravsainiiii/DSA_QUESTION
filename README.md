@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1383-maximum-performance-of-a-team](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1383-maximum-performance-of-a-team) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1388-pizza-with-3n-slices](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1388-pizza-with-3n-slices) |
 | [1480-running-sum-of-1d-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1480-running-sum-of-1d-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1363-largest-multiple-of-three](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1363-largest-multiple-of-three) |
 | [1382-balance-a-binary-search-tree](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1382-balance-a-binary-search-tree) |
 | [1383-maximum-performance-of-a-team](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1383-maximum-performance-of-a-team) |
+| [1388-pizza-with-3n-slices](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1388-pizza-with-3n-slices) |
 | [1927-sum-game](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1927-sum-game) |
 ## Monotonic Stack
 |  |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1383-maximum-performance-of-a-team](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1383-maximum-performance-of-a-team) |
+| [1388-pizza-with-3n-slices](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1388-pizza-with-3n-slices) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1387-sort-integers-by-the-power-value](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1387-sort-integers-by-the-power-value) |
+| [1388-pizza-with-3n-slices](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1388-pizza-with-3n-slices) |
 | [1510-stone-game-iv](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1510-stone-game-iv) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Memoization
