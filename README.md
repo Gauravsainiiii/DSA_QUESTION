@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1927-sum-game](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Number Theory
 |  |
 | ------- |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1383-maximum-performance-of-a-team](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1383-maximum-performance-of-a-team) |
 | [1388-pizza-with-3n-slices](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1388-pizza-with-3n-slices) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -498,10 +500,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1361-validate-binary-tree-nodes](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1361-validate-binary-tree-nodes) |
 | [1377-frog-position-after-t-seconds](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1377-frog-position-after-t-seconds) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
