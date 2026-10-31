@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3488-closest-equal-element-queries) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3665-twisted-mirror-path-count](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3665-twisted-mirror-path-count) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3875-construct-uniform-parity-array-i) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3665-twisted-mirror-path-count](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
 |  |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-sort-integers-by-the-power-value](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1387-sort-integers-by-the-power-value) |
 | [1388-pizza-with-3n-slices](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1388-pizza-with-3n-slices) |
 | [1510-stone-game-iv](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1510-stone-game-iv) |
+| [3665-twisted-mirror-path-count](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Memoization
 |  |
