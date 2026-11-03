@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1388-pizza-with-3n-slices](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1388-pizza-with-3n-slices) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1389-create-target-array-in-the-given-order) |
 | [1390-four-divisors](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1390-four-divisors) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1480-running-sum-of-1d-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1480-running-sum-of-1d-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1349-maximum-students-taking-exam](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1349-maximum-students-taking-exam) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3665-twisted-mirror-path-count](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1377-frog-position-after-t-seconds](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1377-frog-position-after-t-seconds) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1382-balance-a-binary-search-tree) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -457,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0200-number-of-islands) |
 | [1361-validate-binary-tree-nodes](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1361-validate-binary-tree-nodes) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Breadth-First Search
 |  |
@@ -468,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1376-time-needed-to-inform-all-employees](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1377-frog-position-after-t-seconds](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1377-frog-position-after-t-seconds) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Minimax
 |  |
