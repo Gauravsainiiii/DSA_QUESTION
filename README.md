@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1389-create-target-array-in-the-given-order) |
 | [1390-four-divisors](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1390-four-divisors) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1480-running-sum-of-1d-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1348-tweet-counts-per-frequency](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1348-tweet-counts-per-frequency) |
 | [1357-apply-discount-every-n-orders](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1357-apply-discount-every-n-orders) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3488-closest-equal-element-queries) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0561-array-partition) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Trie
 |  |
 | ------- |
