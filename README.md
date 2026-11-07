@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1390-four-divisors) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1395-count-number-of-teams](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1395-count-number-of-teams) |
 | [1480-running-sum-of-1d-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1480-running-sum-of-1d-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1387-sort-integers-by-the-power-value](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1387-sort-integers-by-the-power-value) |
 | [1388-pizza-with-3n-slices](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1388-pizza-with-3n-slices) |
+| [1395-count-number-of-teams](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1395-count-number-of-teams) |
 | [1510-stone-game-iv](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1510-stone-game-iv) |
 | [3665-twisted-mirror-path-count](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -451,10 +453,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0406-queue-reconstruction-by-height) |
+| [1395-count-number-of-teams](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1395-count-number-of-teams) |
 ## Segment Tree
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0406-queue-reconstruction-by-height) |
+| [1395-count-number-of-teams](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1395-count-number-of-teams) |
 ## Combinatorics
 |  |
 | ------- |
