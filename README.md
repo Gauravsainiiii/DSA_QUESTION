@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1392-longest-happy-prefix](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1392-longest-happy-prefix) |
 | [1396-design-underground-system](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1396-design-underground-system) |
+| [1397-find-all-good-strings](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1397-find-all-good-strings) |
 | [1927-sum-game](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-sort-integers-by-the-power-value](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1387-sort-integers-by-the-power-value) |
 | [1388-pizza-with-3n-slices](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1388-pizza-with-3n-slices) |
 | [1395-count-number-of-teams](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1395-count-number-of-teams) |
+| [1397-find-all-good-strings](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1397-find-all-good-strings) |
 | [1510-stone-game-iv](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1510-stone-game-iv) |
 | [3665-twisted-mirror-path-count](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -612,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1392-longest-happy-prefix) |
+| [1397-find-all-good-strings](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1397-find-all-good-strings) |
 ## Hash Function
 |  |
 | ------- |
