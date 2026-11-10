@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1362-closest-divisors](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1362-closest-divisors) |
 | [1363-largest-multiple-of-three](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1363-largest-multiple-of-three) |
 | [1390-four-divisors](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1390-four-divisors) |
+| [1399-count-largest-group](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1399-count-largest-group) |
 | [1510-stone-game-iv](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1510-stone-game-iv) |
 | [1927-sum-game](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1396-design-underground-system](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1396-design-underground-system) |
+| [1399-count-largest-group](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1399-count-largest-group) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3488-closest-equal-element-queries) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1399-count-largest-group](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1399-count-largest-group) |
 ## Trie
 |  |
 | ------- |
