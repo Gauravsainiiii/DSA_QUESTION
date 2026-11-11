@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1396-design-underground-system](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1396-design-underground-system) |
 | [1399-count-largest-group](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1399-count-largest-group) |
+| [1400-construct-k-palindrome-strings](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1400-construct-k-palindrome-strings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3488-closest-equal-element-queries) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-longest-happy-prefix](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1392-longest-happy-prefix) |
 | [1396-design-underground-system](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1396-design-underground-system) |
 | [1397-find-all-good-strings](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1397-find-all-good-strings) |
+| [1400-construct-k-palindrome-strings](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1400-construct-k-palindrome-strings) |
 | [1927-sum-game](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1382-balance-a-binary-search-tree) |
 | [1383-maximum-performance-of-a-team](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1383-maximum-performance-of-a-team) |
 | [1388-pizza-with-3n-slices](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1388-pizza-with-3n-slices) |
+| [1400-construct-k-palindrome-strings](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1400-construct-k-palindrome-strings) |
 | [1927-sum-game](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1927-sum-game) |
 ## Monotonic Stack
 |  |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1399-count-largest-group](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1399-count-largest-group) |
+| [1400-construct-k-palindrome-strings](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1400-construct-k-palindrome-strings) |
 ## Trie
 |  |
 | ------- |
