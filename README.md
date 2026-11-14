@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1349-maximum-students-taking-exam](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1349-maximum-students-taking-exam) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-design-underground-system](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1396-design-underground-system) |
 | [1397-find-all-good-strings](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1397-find-all-good-strings) |
 | [1400-construct-k-palindrome-strings](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1400-construct-k-palindrome-strings) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1927-sum-game](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0946-validate-stack-sequences) |
 | [1260-shift-2d-grid](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1260-shift-2d-grid) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1389-create-target-array-in-the-given-order) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Tree
 |  |
 | ------- |
