@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1395-count-number-of-teams](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1395-count-number-of-teams) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1406-stone-game-iii](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1406-stone-game-iii) |
+| [1408-string-matching-in-an-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1408-string-matching-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1480-running-sum-of-1d-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1400-construct-k-palindrome-strings](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1400-construct-k-palindrome-strings) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1405-longest-happy-string](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1405-longest-happy-string) |
+| [1408-string-matching-in-an-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1408-string-matching-in-an-array) |
 | [1927-sum-game](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -639,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1392-longest-happy-prefix) |
 | [1397-find-all-good-strings](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1397-find-all-good-strings) |
+| [1408-string-matching-in-an-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1408-string-matching-in-an-array) |
 ## Hash Function
 |  |
 | ------- |
