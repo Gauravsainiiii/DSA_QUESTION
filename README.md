@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1406-stone-game-iii](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1406-stone-game-iii) |
 | [1408-string-matching-in-an-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1408-string-matching-in-an-array) |
+| [1409-queries-on-a-permutation-with-key](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1480-running-sum-of-1d-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1480-running-sum-of-1d-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1260-shift-2d-grid) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1389-create-target-array-in-the-given-order) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1409-queries-on-a-permutation-with-key](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1409-queries-on-a-permutation-with-key) |
 ## Tree
 |  |
 | ------- |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0406-queue-reconstruction-by-height) |
 | [1395-count-number-of-teams](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1395-count-number-of-teams) |
+| [1409-queries-on-a-permutation-with-key](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1409-queries-on-a-permutation-with-key) |
 ## Segment Tree
 |  |
 | ------- |
@@ -654,4 +657,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1392-longest-happy-prefix) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [1409-queries-on-a-permutation-with-key](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1409-queries-on-a-permutation-with-key) |
 <!---LeetCode Topics End-->
