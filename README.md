@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0561-array-partition) |
 | [0877-stone-game](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0896-monotonic-array) |
+| [0912-sort-an-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0932-beautiful-array) |
 | [0946-validate-stack-sequences](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0946-validate-stack-sequences) |
 | [1260-shift-2d-grid](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1260-shift-2d-grid) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0268-missing-number) |
 | [0406-queue-reconstruction-by-height](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0406-queue-reconstruction-by-height) |
 | [0561-array-partition](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0561-array-partition) |
+| [0912-sort-an-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0912-sort-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1338-reduce-array-size-to-the-half) |
 | [1340-jump-game-v](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1340-jump-game-v) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0932-beautiful-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1382-balance-a-binary-search-tree) |
 ## Two Pointers
@@ -388,10 +391,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0023-merge-k-sorted-lists) |
+| [0912-sort-an-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0912-sort-an-array) |
 | [1172-dinner-plate-stacks](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1172-dinner-plate-stacks) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1338-reduce-array-size-to-the-half) |
@@ -446,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0561-array-partition) |
+| [0912-sort-an-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0912-sort-an-array) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -666,4 +672,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1409-queries-on-a-permutation-with-key](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1409-queries-on-a-permutation-with-key) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
