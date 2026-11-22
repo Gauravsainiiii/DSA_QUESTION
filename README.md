@@ -431,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1395-count-number-of-teams](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1395-count-number-of-teams) |
 | [1397-find-all-good-strings](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1397-find-all-good-strings) |
 | [1406-stone-game-iii](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1406-stone-game-iii) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1510-stone-game-iv](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1510-stone-game-iv) |
 | [3665-twisted-mirror-path-count](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -680,4 +681,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0912-sort-an-array) |
+## Graph Coloring
+|  |
+| ------- |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 <!---LeetCode Topics End-->
