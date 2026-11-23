@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1406-stone-game-iii) |
 | [1408-string-matching-in-an-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1408-string-matching-in-an-array) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1409-queries-on-a-permutation-with-key) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1480-running-sum-of-1d-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0525-contiguous-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0525-contiguous-array) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1352-product-of-the-last-k-numbers) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1480-running-sum-of-1d-array) |
 | [3903-smallest-stable-index-i](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3904-smallest-stable-index-ii) |
