@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1405-longest-happy-string](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1405-longest-happy-string) |
 | [1408-string-matching-in-an-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1408-string-matching-in-an-array) |
 | [1410-html-entity-parser](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1410-html-entity-parser) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1927-sum-game](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0079-word-search) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Game Theory
 |  |
 | ------- |
