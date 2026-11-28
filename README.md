@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1408-string-matching-in-an-array) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1480-running-sum-of-1d-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1480-running-sum-of-1d-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1399-count-largest-group](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1399-count-largest-group) |
 | [1400-construct-k-palindrome-strings](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1400-construct-k-palindrome-strings) |
 | [1410-html-entity-parser](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1410-html-entity-parser) |
+| [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3488-closest-equal-element-queries) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1387-sort-integers-by-the-power-value](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1387-sort-integers-by-the-power-value) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
+| [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3731-find-missing-elements) |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1410-html-entity-parser](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1410-html-entity-parser) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1417-reformat-the-string](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1417-reformat-the-string) |
+| [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1927-sum-game](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -484,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0895-maximum-frequency-stack](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/0895-maximum-frequency-stack) |
 | [1348-tweet-counts-per-frequency](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1348-tweet-counts-per-frequency) |
+| [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/Gauravsainiiii/DSA_QUESTION/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 ## Backtracking
 |  |
 | ------- |
